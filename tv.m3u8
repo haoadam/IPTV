@@ -107,7 +107,7 @@ http://125.227.210.37:8912/VideoInput/play.ts
 http://122.146.68.116:4046/VideoInput/play.ts
 #EXTINF:tvg-logo="" group-title="人文",台DiscoveryHD2
 http://125.227.210.37:8896/VideoInput/play.ts
-#EXTINF:tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="人文",台Discovery探索
+#EXTINF:tvg-logo="" group-title="人文",台Discovery探索
 http://222.207.48.30/hls/discovery.m3u8
 #EXTINF:tvg-logo="" group-title="人文",台国家地理杂志HD
 http://122.146.68.116:4020/VideoInput/play.ts
@@ -259,3 +259,7 @@ http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
 http://92.249.129.152/stream/1music.m3u8
 #EXTINF:tvg-logo="" group-title="音乐",音V2BEAT*
 http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",test
+http://199.195.195.108:32001
+#EXTINF:tvg-logo="" group-title="音乐",test2
+rtmp://edge2.everyon.tv/etv2/pld1006
