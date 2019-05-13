@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:tvg-logo="" group-title="影视",中文电影
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:tvg-logo="" group-title="影视",经典粤语喜剧片
+http://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",好莱坞英雄电影
+http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",复仇者联盟电影
+http://aldirect.hls.huya.com/huyalive/30765679-2591336344-11129704850416205824-3048991622-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",好莱坞电影1
+http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",好莱坞电影2
+http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",好莱坞电影3
+http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",好莱坞电影4
+http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",轮播周星弛电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",轮播刘德华电影台HD
+http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
+#EXTINF:tvg-logo="" group-title="影视",新传媒8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:tvg-logo="" group-title="综合",新U频道
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",test
+p2p://106.186.121.94:8260/5607414b000bf5185741aa8b25c62806
+#EXTINF:tvg-logo="" group-title="音乐",音MTV CHINA1
+http://103.242.13.90:5555/udp/239.4.2.71:10000
+#EXTINF:tvg-logo="" group-title="音乐",音MTV CHINA2
+http://iliketot.dyndns.tv/deb56e700dbc4d9ea5af08e9d300a675.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音MTV LIVE HD
+http://iliketot.dyndns.tv/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音MTV asian
+http://iliketot.dyndns.tv/ebce2f5139c54eda8b111e5923af9c9e.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音Channel V
+http://iliketot.dyndns.tv/9e38a0084e6d45d080139a166c60a102.m3u8
+#EXTINF:tvg-logo="https://i.imgur.com/yCQcrYJ.png" group-title="音乐",音M2O TV HD
+http://m2otv-lh.akamaihd.net:80/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音Radio Monte Carlo
+http://wow01.105.net:1935/live/rmc1/livestream.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音NRJ HITS
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音Music Top (ARG)HD
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音Music chanel 18+
+http://92.249.129.152/stream/1music.m3u8
+#EXTINF:tvg-logo="" group-title="音乐",音V2BEAT*
+http://de1se01.v2beat.live/playlist.m3u8
